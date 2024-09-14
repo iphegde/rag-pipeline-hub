@@ -24,6 +24,18 @@ RAG is a powerful architecture that enhances the output of generative models by 
 
 ---
 
+### Key Sections:
+1. **What is RAG** – Provides an overview of the concept to inform new users.
+2. **Features** – Lists the key elements of the repository, making it clear what users can expect.
+3. **Repository Structure** – Gives an organized view of how the repo is set up.
+4. **Getting Started** – A brief walkthrough for new users to clone and run a basic pipeline.
+5. **Use Cases** – Examples of practical applications for RAG.
+6. **Contributing** – Invites contributions from the community.
+7. **License & Acknowledgements** – Standard sections to attribute open-source contributions.
+
+This should give users a solid understanding of what the repo is for and how to use it!
+
+
 ## Repository Structure
 
 ```bash
@@ -41,14 +53,5 @@ rag-pipeline-hub/
 
 
 
-### Key Sections:
-1. **What is RAG** – Provides an overview of the concept to inform new users.
-2. **Features** – Lists the key elements of the repository, making it clear what users can expect.
-3. **Repository Structure** – Gives an organized view of how the repo is set up.
-4. **Getting Started** – A brief walkthrough for new users to clone and run a basic pipeline.
-5. **Use Cases** – Examples of practical applications for RAG.
-6. **Contributing** – Invites contributions from the community.
-7. **License & Acknowledgements** – Standard sections to attribute open-source contributions.
 
-This should give users a solid understanding of what the repo is for and how to use it!
 
